@@ -1,4 +1,4 @@
-from pythoncalculator.<username>_multiply import multiply
+from pythoncalculator.st7ma784_multiply import multiply
 
 #add multiply fn
 def test_multiply():
